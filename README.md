@@ -5,4 +5,6 @@ future development : create data warehouse to put these data and add fetching ti
 Use Libraries :selenium
 
 
-Project 02:This project developed to automate login process of Hello World web site and avigate through the data repositories (Coronavirus daily data) and download the relevant data files and signed out from hello world automatically
+Project 02-Automate Login to A Web Site-Data World: This project developed to automate login process of Data World public web site and navigate through the data repositories and download the relevant data files  (Coronavirus daily data)  and signed out from hello world automatically
+Use Libraries :selenium
+
