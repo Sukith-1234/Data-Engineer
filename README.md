@@ -8,3 +8,4 @@ Use Libraries :selenium
 Project 02-Automate Login to A Web Site-Data World: This project developed to automate login process of Data World public web site and navigate through the data repositories and download the relevant data files  (Coronavirus daily data)  and signed out from hello world automatically
 Use Libraries :selenium
 
+Project 03 -Automated Stock Price Fetcher From Yahoo Finance:This project developed to fetch stock price data using python.You need to provide company code,start date and end date you need stock data.Python will automatically fetch the stock data and save as CSV file in your desktop
