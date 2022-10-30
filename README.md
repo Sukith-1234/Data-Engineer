@@ -14,4 +14,3 @@ Proejct 04-CurrencyConverter: Real time currency converter and you need to provi
 
 Proejct 05-Fetch images from FB-Graph API:This project helps to fetch the images from Facebook Graph API (you need to have f=meta developer account)
 
-Proejct 06-Currency converter-This python scrip help to convert currency into one type into another type (create using BeautifulSoup library)
