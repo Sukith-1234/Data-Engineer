@@ -11,3 +11,5 @@ Use Libraries :selenium
 Project 03 -Automated Stock Price Fetcher From Yahoo Finance:This project developed to fetch stock price data using python.You need to provide company code,start date and end date you need stock data.Python will automatically fetch the stock data and save as CSV file in your desktop
 
 Proejct 04-CurrencyConverter: Real time currency converter and you need to provide currecnies you need to convert inside the function
+
+Proejct 05-Fetch images from FB-Graph API:This project helps to fetch the images from Facebook Graph API (you need to have f=meta developer account)
