@@ -14,3 +14,5 @@ Proejct 04-CurrencyConverter: Real time currency converter and you need to provi
 
 Proejct 05-Fetch images from FB-Graph API:This project helps to fetch the images from Facebook Graph API (you need to have f=meta developer account)
 
+Project 06- Create Resume using Python:This project is shows how we can build a CV usinf python (adding profile image and resume details) and finaly convert it into PDF
+
